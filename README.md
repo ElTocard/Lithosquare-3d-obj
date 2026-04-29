@@ -1,1 +1,0 @@
-# Lithosquare-3d-obj
